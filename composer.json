@@ -1,0 +1,13 @@
+{
+  "name": "activisme-be/php-cs-rules",
+  "description": "Shared PHP-CS-FIXER for the Activisme_BE projects written in PHP",
+  "license": "MIT",
+  "require": {
+    "friendsofphp/php-cs-fixer": "^2.16"
+  },
+  "autoload": {
+    "files": [
+      "./src/helpers.php"
+    ]
+  }
+}
