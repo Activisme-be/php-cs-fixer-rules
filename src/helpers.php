@@ -1,6 +1,6 @@
 <?php
 
-namespace ActivismeBE\CsRules;
+namespace ActivismeBE\PhpCsRules;
 
 use PhpCsFixer\Config;
 use PhpCsFixer\Finder;

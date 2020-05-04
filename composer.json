@@ -1,5 +1,5 @@
 {
-  "name": "activisme-be/php-cs-rules",
+  "name": "activisme-be/php-cs-fixer-rules",
   "description": "Shared PHP-CS-FIXER for the Activisme_BE projects written in PHP",
   "license": "MIT",
   "require": {
